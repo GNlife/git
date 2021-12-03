@@ -11,8 +11,10 @@ public class GitTest {
 
     public static void main(String[] args) {
         System.out.println("hello git!");
+        System.out.println("hello gi2!");
     }
     public String test(int i){
         return "test";
     }
+
 }
