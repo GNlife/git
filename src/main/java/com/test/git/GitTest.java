@@ -14,6 +14,7 @@ public class GitTest {
         System.out.println("hello gi2!");
         System.out.println("hello gi3!");
         System.out.println("hello gi4!");
+        System.out.println("hot-fix test!");
     }
     public String test(int i){
         return "test";
